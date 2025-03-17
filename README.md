@@ -40,6 +40,9 @@
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BrandonMasacela)](https://github.com/BrandonMasacela) 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BrandonMasacela)](https://github.com/BrandonMasacela)
 
+<br />
+<br />
+
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrandonMasacela&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonMasacela&theme=react&layout=compact" />
